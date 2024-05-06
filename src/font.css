@@ -1,0 +1,25 @@
+ 
+@font-face {
+  font-family: 'Redware';
+  src: url('/public/fonts/NeulisAlt-Black.otf') format('opentype'); 
+}
+  
+@font-face {
+  font-family: 'SFPro';
+  src: url('/public/fonts/SF-Pro-Text-Black.otf') format('opentype'); 
+} 
+
+@font-face {
+  font-family: 'SFPmd';
+  src: url('/public/fonts/SF-Pro-Display-Medium.otf') format('opentype'); 
+} 
+
+@font-face {
+  font-family: 'SfDisplayRegular';
+  src: url('/public/fonts/SF-Pro-Display-Regular.otf') format('opentype'); 
+} 
+  
+@font-face {
+  font-family: 'SFPrg';
+  src: url('/public/fonts/SF-Pro-Rounded-Regular.otf') format('opentype'); 
+}  
