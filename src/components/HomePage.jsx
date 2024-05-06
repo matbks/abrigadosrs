@@ -26,13 +26,13 @@ function App() {
       <Flex boxShadow="lg"
         border="lg" as="nav" align="top" justify="space-between" wrap="wrap" bg="#282c34" color="white" w="100%">
         <Flex align="top" mr={5} alignItems='center' marginStart='2'> 
-            <FaHome p="2"  fontSize='3vh' _hover={{ textDecoration: 'none', opacity: 0.8}}></FaHome>
+            <FaHome p="2"  fontSize='2vh' _hover={{ textDecoration: 'none', opacity: 0.8}}></FaHome>
           
           
-          <Link href="#" p="2" _hover={{ textDecoration: 'none', opacity: 0.8 }} marginStart='2' fontSize='3vh'>
+          <Link href="#" p="2" _hover={{ textDecoration: 'none', opacity: 0.8 }} marginStart='2' fontSize='2vh'>
             Doe
           </Link>
-          <Link href="#" p="2" _hover={{ textDecoration: 'none', opacity: 0.8 }} fontSize='3vh'>
+          <Link href="#" p="2" _hover={{ textDecoration: 'none', opacity: 0.8 }} fontSize='2vh'>
             Sobre
           </Link>
         </Flex>
