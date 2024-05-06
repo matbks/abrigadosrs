@@ -12,9 +12,6 @@ import {
   FormLabel,
   Input,
   useToast,
-  Box,
-  useColorModeValue,
-  Text,
 } from '@chakra-ui/react'; 
 import PropTypes from 'prop-types';
 

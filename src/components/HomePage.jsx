@@ -3,12 +3,11 @@ import '../App.css';
 import CredentialModal from './CredentialModal';
 import { FaWhatsapp, FaHome } from 'react-icons/fa';
 
-import { Button, Input, Flex, Box, Link, HStack, VStack, FormControl, useColorModeValue, IconButton } from '@chakra-ui/react';
+import { Button,  Flex,  Link, HStack, useColorModeValue, IconButton } from '@chakra-ui/react';
 function App() {
-  const [isOpen, setIsOpen] = useState(false);
-  const [filter, setFilter] = useState('');
+  const [isOpen, setIsOpen] = useState(false); 
 
-  const handleOpenModal = () => setIsOpen(true);
+  // const handleOpenModal = () => setIsOpen(true);
   const handleCloseModal = () => setIsOpen(false);
 
   return (
